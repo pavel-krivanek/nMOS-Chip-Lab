@@ -41,7 +41,7 @@ The UI lets you:
 ## Files
 
 - `index.html` — single-page UI application
-- `_ui_extract.js` — UI logic and editor behavior
+- `ui_extract.js` — UI logic and editor behavior
 - `sim-core.js` — extraction and simulation engine
 - `tests.js` — Node-based regression tests
 - `README.md` — this document
